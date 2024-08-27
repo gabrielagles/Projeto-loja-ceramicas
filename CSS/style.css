@@ -243,6 +243,7 @@ div button:hover {
 .aula {
     text-align: center;
     max-width: 30%;
+    align-items: center;
 }
 
 .aula img {
@@ -262,7 +263,6 @@ div button:hover {
     margin-top: 10px;
     font-size: 1em;
     color: #666;
-    text-align: left;
 }
 
 .botao-aula {
@@ -280,6 +280,8 @@ div button:hover {
     cursor: pointer;
     outline: none;
     white-space: nowrap;
+    
+
 }
 
 .botao-aula:hover {
