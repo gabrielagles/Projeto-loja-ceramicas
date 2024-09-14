@@ -201,7 +201,7 @@ div .mini-texto-jornada {
     margin-top: 20px;
 }
 
-div button {
+.botao-aula, .botao-inscreva{
     padding: 1.3em 3em;
     font-size: 12px;
     border-radius: 45px;
@@ -456,6 +456,10 @@ div button:hover {
     color: #ffffff88;
     margin-top: 5px;
     font-size: 8px;
+}
+
+.botao-comprar {
+    text-align: center;
 }
 
 /* Responsivo: Alinhar cards verticalmente em telas menores */
